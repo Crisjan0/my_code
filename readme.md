@@ -1,4 +1,2 @@
-## hello git
-
-
-i add 
+## welcome to  git 
+this is from 'dev-web'
